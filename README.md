@@ -20,5 +20,6 @@ the professional programmer in daily basis:
 http://www.jetbrains.com/pycharm/help/running-and-debugging.html
 
 In case you want to run each one of the scripts, assuming you have python installed, write in your console the following lines:
-`$ python blackjack.py
+`$ python blackjack.py`
+To run object-oriented version:
 `$ python blackjack_oo.py`
